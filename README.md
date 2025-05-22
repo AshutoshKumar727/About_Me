@@ -24,16 +24,6 @@ I’m a data-driven professional currently working as a **Process Associate at S
 
 ---
 
-### 📊 Projects I've Built
-
-- 🚗 **Car Sales Analytics Dashboard**  
-- 🛍️ **Superstore Sales Dashboard**  
-- 🍔 **Zomato Food Delivery Analysis**
-
-📌 *(See my LinkedIn “Featured” section for live visuals)*
-
----
-
 ### 🎓 Education & Certifications
 
 - Bachelor of Arts — IGNOU  

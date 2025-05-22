@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 About Me
 
-I’m a data-driven professional currently working as a **Process Associate at SunTec Web Services**, where I focus on optimizing processes, automating reports, and delivering insights through dashboards.
+I am a dedicated and skilled professional currently working as a Process Associate at SunTec Web Services Pvt. Ltd., where I focus on optimizing workflows and driving efficiency through data-driven insights.
 
 ### 🛠 Tools & Technologies
 

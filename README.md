@@ -50,5 +50,5 @@ I’m a data-driven professional currently working as a **Process Associate at S
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutosh-singh86&show_icons=true&theme=tokyonight" alt="Ashutosh GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AshutoshKumar727&show_icons=true&theme=tokyonight" alt="Ashutosh GitHub stats" />
 </p>

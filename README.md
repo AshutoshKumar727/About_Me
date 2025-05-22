@@ -46,7 +46,7 @@ I’m a data-driven professional currently working as a **Process Associate at S
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ashutosh-singh86)
-- 📧 Email: *yourmail@example.com* *(replace with your real email)*
+- 📧 Email: *ashutosh9631837387@gmail.com* *(replace with your real email)*
 
 ---
 
